@@ -1,0 +1,102 @@
+body {
+  background-color: #e9ecef;
+}
+
+
+h1 {
+  color: #6d6875;
+  font-family: 'Yusei Magic', sans-serif;
+
+}
+
+h2  {
+  color: #b5838d ;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+p {
+  color: #b5838d ;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin: 30px auto;
+
+}
+
+a {
+  color: #6d6875 ;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 50px, 0px;
+
+
+}
+
+h3 {
+  color: #b5838d ;
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+
+}
+
+i {
+  color: #e5989b;
+
+}
+
+.card-white {
+  box-shadow: 0 10px 30px rgba(0,0,0,.2);
+  padding: 30px;
+  margin: 20px 0px;
+  background-color: #ffcdb2;
+  border-radius: 4px;
+
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.introduction {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+
+}
+
+.img-circle {
+  border-radius: 50%;
+
+}
+
+.inline-list li {
+  list-style: none;
+}
+
+.inline-list {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.btn {
+  background-color: #e5989b;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration-color: rgb(255,255,255);
+  text-decoration-line: none;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+}
+
+.btn:hover {
+  opacity: 0.5;
+
+}
